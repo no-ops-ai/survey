@@ -28,4 +28,4 @@ You have the right to:
 - Withdraw consent for data collection.
 
 ## 7. Contact Us
-If you have questions about this privacy policy, please fill out our [Contact Us form](https://forms.gle/your-form-link).
+If you have questions about this privacy policy, please fill out our [Contact Us form](https://forms.gle/4sAPWB2DddWyHhm16).
