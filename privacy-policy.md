@@ -5,12 +5,10 @@ Thank you for participating in our survey and/or contacting us! This privacy pol
 ## 1. Information We Collect
 We collect the following information through our forms:
 - **Survey Form**: Your email address (optional).
-- **Contact Us Form**: Your name (optional), email address, and message.
 
 ## 2. How We Use Your Information
 Your information will be used solely for the following purposes:
 - **Survey Form**: To validate the problem we are researching and contact you to provide product updates.
-- **Contact Us Form**: To respond to your inquiries or feedback.
 
 ## 3. Data Storage
 All information collected through our forms is stored securely in Google Forms. We will not export or store this data elsewhere.
@@ -28,4 +26,4 @@ You have the right to:
 - Withdraw consent for data collection.
 
 ## 7. Contact Us
-If you have questions about this privacy policy, please fill out our [Contact Us form](jaroslaw.dziuk@gmail.com).
+If you have questions about this privacy policy, please fill out our [Contact Us form](mailto:jaroslaw.dziuk@gmail.com).
