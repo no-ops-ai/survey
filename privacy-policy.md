@@ -4,7 +4,8 @@ Thank you for participating in our survey and/or contacting us! This privacy pol
 
 ## 1. Information We Collect
 We collect the following information through our forms:
-- **Survey Form**: Your email address (optional).
+- **Survey Responses**: We collect anonymized responses to questions about cloud management challenges.
+- **Optional Email Address**: If you choose to provide it, we collect your email to share product updates or follow up on survey insights.
 
 ## 2. How We Use Your Information
 Your information will be used solely for the following purposes:
